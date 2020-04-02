@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZooApp</string>
+    <string name="zoo_name">Bardstown Zoo</string>
+    <string name="lion_content_description">Lion Image</string>
+    <string name="gorilla_content_description">Gorilla Image</string>
+    <string name="marmot_content_description">Marmot Image</string>
+    <string name="humpback_content_description">Humpback Image</string>
+    <string name="elephant_content_description">Elephant Image</string>
+</resources>
